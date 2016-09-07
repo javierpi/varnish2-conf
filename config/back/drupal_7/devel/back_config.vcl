@@ -1,7 +1,7 @@
 ##  Drupal
 ## servidor webtesting.cepal.org
 backend drupal1 {
-	.host = "webtesting.cepal.org"; 
+	.host = "apache2-d1.cepal.org"; 
 	.port = "80";
 	#.probe = drupalprobe;
 	# habilitado el 20-mayo-2015 en desarrollo
