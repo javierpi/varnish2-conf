@@ -1,0 +1,1 @@
+# varnish2-conf
